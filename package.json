@@ -1,0 +1,31 @@
+{
+  "name": "khatmah-reminder-bot",
+  "version": "1.0.0",
+  "description": "Twitter Bot that posts a Juz a day throughout ramadan",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AncientSwordRage/khatmah-reminder-bot.git"
+  },
+  "keywords": [
+    "juz",
+    "quran",
+    "islam",
+    "twitter",
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AncientSwordRage/khatmah-reminder-bot/issues"
+  },
+  "homepage": "https://github.com/AncientSwordRage/khatmah-reminder-bot#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "dotenv": "^16.0.0",
+    "twit": "^2.2.11"
+  }
+}
